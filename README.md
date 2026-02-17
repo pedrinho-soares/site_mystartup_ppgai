@@ -12,28 +12,37 @@ A demora para responder, a limitação ao horário comercial e a sobrecarga de t
 Default no Atendimento é um termo que podemos adaptar para este contexto: é a perda de um paciente potencial devido à falha ou demora no processo de atendimento e agendamento. O principal motivo para essa perda é a incapacidade operacional da clínica de estar disponível no momento em que o paciente demonstra interesse.
 
 2. **Como Funciona a Solução PPG AI**
+   
 A PPG AI oferece uma camada de inteligência e automação para o WhatsApp da sua clínica, transformando o atendimento e otimizando a gestão de agenda.
 
 **Análise do Comportamento do Paciente**
+
 Em vez de dados de crédito, a PPG AI analisa a intenção por trás da mensagem do paciente. A nossa solução utiliza Processamento de Linguagem Natural (PNL) para interpretar pedidos como "gostaria de agendar", "qual o valor da consulta?" ou "tem horário amanhã?". Essa interação acontece de forma ética e transparente, simulando uma conversa humana.
 
 **Modelo de Atendimento Inteligente** (Fluxo Conversacional)
+
 A automação não se baseia em machine learning para score de risco, mas em fluxos conversacionais inteligentes e altamente customizáveis. Nós "treinamos" a assistente para entender as especificidades da sua clínica: tipos de especialidades, nomes de médicos, duração das consultas e políticas de agendamento. O sistema guia o paciente por um funil, desde a saudação até a confirmação do horário.
 
 **Customização da Experiência** (Limites de Atendimento)
+
 Oferecemos um atendimento personalizado. A assistente sabe quando passar o contato para um atendente humano (caso a dúvida seja muito complexa) e quando resolver de forma autônoma. Isso permite que a clínica conceda "autonomia" gradual à IA, liberando a equipe para tarefas mais estratégicas à medida que a ferramenta demonstra eficiência.
 
 **Transparência no Processo**
+
 Acreditamos que a tecnologia deve ser uma ponte, não uma barreira. A PPG AI é transparente com os pacientes, apresentando-se como uma assistente virtual da clínica. Para a clínica, oferecemos total visibilidade sobre as conversas e agendamentos realizados, garantindo controle e a possibilidade de intervenção humana sempre que necessário.
 
 **Contextualização do Problema**
+
 Neste projeto, o objetivo é resolver um problema comum a clínicas de todos os portes: a ineficiência no atendimento via WhatsApp, que resulta em perda de pacientes e desorganização da agenda.
 
 Vale ressaltar que a solução atua no momento crítico da jornada do paciente: o primeiro contato. É nessa hora que a decisão de agendar ou desistir é tomada.
 
-**OBJETIVO**: Criar uma solução de automação via WhatsApp que atenda 24/7, qualifique leads, realize agendamentos e organize a rotina da clínica, garantindo que nenhum paciente seja perdido por falta de atendimento.
+**OBJETIVO**:
+
+Criar uma solução de automação via WhatsApp que atenda 24/7, qualifique leads, realize agendamentos e organize a rotina da clínica, garantindo que nenhum paciente seja perdido por falta de atendimento.
 
 **Análise do Problema** (O que as clínicas enfrentam)
+
 Em "Tempo de Resposta": A demora para responder é o fator mais crítico e frequente, levando à desistência do paciente.
 
 Em "Horário de Funcionamento": O horário comercial (9h às 18h) é o padrão da maioria, mas é justamente fora dele que muitos pacientes buscam agendar.
