@@ -2,7 +2,7 @@
 PPG AI é uma solução de automação inteligente para clínicas que transforma o WhatsApp em um agendador 24/7. A assistente virtual qualifica leads, marca consultas e organiza a agenda automaticamente, eliminando filas de espera e garantindo que nenhum paciente seja perdido por falta de atendimento.
 
 PPG AI - Automação Inteligente para Clínicas no WhatsApp
-<img src="https://ppgai.netlify.app/logo.jpeg" alt="PPG AI - Atendimento automatizado para clínicas" width="50%">
+<img src="https://ppgai.netlify.app/logo.jpeg" alt="PPG AI - Atendimento automatizado para clínicas" width="100%">
 1. **Descrição**
 No setor de saúde, a agilidade no primeiro contato com o paciente é um fator decisivo para a conversão. Clínicas e consultórios modernos enfrentam o desafio de gerenciar um alto volume de mensagens no WhatsApp sem aumentar a carga de trabalho da equipe ou comprometer a qualidade do atendimento.
 
